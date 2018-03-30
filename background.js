@@ -1,0 +1,1 @@
+﻿function onClickHandler(n,e){}chrome.runtime.onMessage.addListener(function(n,e,t){"toPopupJS"===n[0]&&(glvars_inputtext=n[2])}),chrome.runtime.onInstalled.addListener(function(n){}),chrome.runtime.onInstalled.addListener(function(n){});var glvars_inputtext="";
